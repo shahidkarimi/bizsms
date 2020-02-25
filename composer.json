@@ -1,7 +1,7 @@
 {
     "name": "shahidkarimi/bizsms",
     "description": "Send branded SMS to any Pakistani number",
-    "license": "Free",
+    "license": "MIT",
     "authors": [
         {
             "name": "Shahid Karimi",
