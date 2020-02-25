@@ -4,9 +4,9 @@
 
 To install follow these steps
 
-1- install `composer install shahidkarimi/bizsms`
+1- Install `composer install shahidkarimi/bizsms`
 
-2- Publish vendor
+2- Publish vendor `php artisan vendor:publish`
 
 3- Change config
 
