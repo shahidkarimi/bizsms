@@ -18,10 +18,11 @@ To install follow these steps
 2- Add this alias `bizsms => BizsmsServiceProvider::class`
 
 # How to use?
+## 1- By Global Function
 
 `bizsms::send('0346123456', 'SMS Body');`
 
-# Adding SmsNotifiable Trait to User.php
+## 2- By adding SmsNotifiable Trait to User.php
 The easiest way to send sms to a user is just using the SmsNotifiable Trait in user user class as 
 
 ```
