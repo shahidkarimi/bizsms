@@ -24,10 +24,12 @@ To install follow these steps
 # Adding SmsNotifiable Trait to User.php
 The easiest way to send sms to a user is just using the SmsNotifiable Trait in user user class as 
 
-``class User extends Authenticatable
+```
+class User extends Authenticatable
 {
     use SmsNotifiable;
-}``
+}
+```
 
 Sending SMS
 `$user->notifyBySms("Hello sir");`
