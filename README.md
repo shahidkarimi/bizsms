@@ -1,6 +1,6 @@
 # bizsms.pk SMS Serivice
 
-How to install
+#How to install
 
 To install follow these steps
 
