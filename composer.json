@@ -1,0 +1,13 @@
+{
+    "name": "shahidkarimi/bizsms",
+    "description": "Send branded SMS to any Pakistani number",
+    "license": "Free",
+    "authors": [
+        {
+            "name": "Shahid Karimi",
+            "email": "karimi.shahid@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
