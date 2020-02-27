@@ -8,5 +8,6 @@
             "email": "karimi.shahid@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
