@@ -8,7 +8,7 @@ To install follow these steps
 
 2- Publish vendor `php artisan vendor:publish`
 
-3- Change config
+3- Change config `config/bizsms.php` with your bizsms.pk credentials
 
 
 # Confgiure
