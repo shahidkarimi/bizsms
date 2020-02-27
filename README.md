@@ -35,3 +35,5 @@ class User extends Authenticatable
 Sending SMS
 `$user->notifyBySms("Hello sir");`
 
+## Want to contribute?
+You are free to contribute in this reposity.
