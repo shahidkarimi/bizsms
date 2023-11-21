@@ -10,6 +10,8 @@ To install follow these steps
 
 3- Change config `config/bizsms.php` with your bizsms.pk credentials
 
+4- Make sure you have valid credentials purchased from https://bizsms.pk
+
 
 # Confgiure
 
